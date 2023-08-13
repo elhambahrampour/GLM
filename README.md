@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 # Generalized Linear Regression (GLM)
 
