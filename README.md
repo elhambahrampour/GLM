@@ -1,5 +1,5 @@
 
-# Generalized Linear Regression (GLM)
+# Generalized Linear Model (GLM)
 
 In this biological project, we are interested in analyzing the effects of different characteristics of female crabs on the number of their satellites.
 Each female crab in the study had a male crab attached to her in her nest.
