@@ -6,7 +6,7 @@ Each female crab in the study had a male crab attached to her in her nest.
 The study investigated factors that affect whether the female crab had any other males, called satellites, residing nearby her.
 The data is from the Horseshoe Crab Research Database. 
 Explanatory variables thought possibly to affect this included the female crab's color, spine condition, weight, and carapace width.
-The outcome for each female crab is her number of satellites. We will look at the response has a binary random variable:
+The outcome for each female crab is her number of satellites. We will look at the response as a binary random variable:
 0 = no satellites, 1 = at least one satellite
 
 >>>>>>> 
